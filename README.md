@@ -1,4 +1,4 @@
-# MLB Stats CLI <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Major_League_Baseball_logo.svg" alt="MLB Logo" width="100" height="" style="display:inline-block; vertical-align:middle; margin-left:8px;">
+# MLB Stats CLI <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Major_League_Baseball_logo.svg" alt="MLB Logo" width="70" height="" style="display:inline-block; vertical-align:middle; margin-left:8px;">
 
 ![Run Python Tests](https://github.com/jarvisaw/MLB-Stats-CLI/actions/workflows/tests.yml/badge.svg)
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
