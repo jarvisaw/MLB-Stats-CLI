@@ -6,8 +6,6 @@
 
 A Python-based command-line tool designed to fetch real-time Major League Baseball (MLB) statistics directly from your terminal. Easily look up team rosters, league leaders, and individual player stats.
 
-This project was developed as the midterm requirement for IS4010 at the University of Cincinnati.
-
 ---
 
 ## Features
